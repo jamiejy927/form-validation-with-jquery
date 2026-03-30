@@ -1,3 +1,7 @@
+## Deployed Link
+
+https://jamie-form-validation.netlify.app/
+
 # Form Validation with Jquery
 
 > This assignment is to create a form and validate user input. if user is submitting form without any input or with number of characters greater than 140, then error messages has to be displayed accordingly. Otherwise, new message needs to be rendered below form.
